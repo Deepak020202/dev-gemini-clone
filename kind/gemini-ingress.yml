@@ -11,7 +11,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - 91.108.105.170.nip.io
+    - 13.201.34.247.nip.io
     secretName: gemini-tls-secret
   ingressClassName: nginx
   rules:
